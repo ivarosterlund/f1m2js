@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+#container{
+    background-color: white;
+    width: 900px;
+    height: 600px;
+    margin: 50px auto auto auto; 
+    display: grid; 
+    grid-template-columns: auto auto;
+    border: inset 4px black; 
+}
+
+#myInteraction{
+    padding: 10px;
+}
